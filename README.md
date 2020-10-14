@@ -6,3 +6,9 @@ https://pt.wikipedia.org/wiki/Quantil#:~:text=Quantis%20s%C3%A3o%20pontos%20esta
 https://medium.com/kunumi/m%C3%A9tricas-de-avalia%C3%A7%C3%A3o-em-machine-learning-classifica%C3%A7%C3%A3o-49340dcdb198
 https://medium.com/kunumi
 https://www.kunumi.com/
+
+https://filememo.info/extension/ipynb
+https://jupyter.readthedocs.io/pt_BR/latest/index.html
+
+https://en.wikipedia.org/wiki/Linear_regression
+https://en.wikipedia.org/wiki/Naive_Bayes_classifier
