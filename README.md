@@ -12,3 +12,6 @@ https://jupyter.readthedocs.io/pt_BR/latest/index.html
 
 https://en.wikipedia.org/wiki/Linear_regression  
 https://en.wikipedia.org/wiki/Naive_Bayes_classifier  
+
+https://towardsdatascience.com/how-to-split-a-dataframe-into-train-and-test-set-with-python-eaa1630ca7b3
+https://www.geeksforgeeks.org/decision-tree-implementation-python/
