@@ -22,5 +22,6 @@ https://scikit-learn.org/stable/modules/tree.html
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sum.html  
 https://medium.com/kunumi/m%C3%A9tricas-de-avalia%C3%A7%C3%A3o-em-machine-learning-classifica%C3%A7%C3%A3o-49340dcdb198  
 
-https://scikit-learn.org/stable/modules/preprocessing.html  
-https://scikit-learn.org/stable/modules/random_projection.html  
+### Preprocessing Data
+https://medium.com/data-hackers/normalizar-ou-padronizar-as-vari%C3%A1veis-3b619876ccc9
+https://scikit-learn.org/stable/modules/preprocessing.html
