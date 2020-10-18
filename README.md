@@ -23,6 +23,7 @@ https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sum.
 https://medium.com/kunumi/m%C3%A9tricas-de-avalia%C3%A7%C3%A3o-em-machine-learning-classifica%C3%A7%C3%A3o-49340dcdb198  
 
 ### Preprocessing Data
-https://medium.com/data-hackers/normalizar-ou-padronizar-as-vari%C3%A1veis-3b619876ccc9
-https://scikit-learn.org/stable/modules/preprocessing.html
-https://towardsdatascience.com/scale-standardize-or-normalize-with-scikit-learn-6ccc7d176a02
+https://medium.com/data-hackers/normalizar-ou-padronizar-as-vari%C3%A1veis-3b619876ccc9  
+https://scikit-learn.org/stable/modules/preprocessing.html  
+https://towardsdatascience.com/scale-standardize-or-normalize-with-scikit-learn-6ccc7d176a02  
+https://python-data-science.readthedocs.io/en/latest/normalisation.html  
