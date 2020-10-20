@@ -1,6 +1,4 @@
 # kunumi_workshop
-repo do workshop da kunumi
-https://github.com/salemribeiro/COVID-Kunumi-42/blob/main/Covid-42-KUNUMI-Einstein.ipynb  
 
 ## Referencias 
 
