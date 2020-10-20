@@ -1,29 +1,33 @@
 # kunumi_workshop
 repo do workshop da kunumi
-https://github.com/salemribeiro/COVID-Kunumi-42/blob/main/Covid-42-KUNUMI-Einstein.ipynb
+https://github.com/salemribeiro/COVID-Kunumi-42/blob/main/Covid-42-KUNUMI-Einstein.ipynb  
 
-## Referencias
-https://pt.wikipedia.org/wiki/Quantil#:~:text=Quantis%20s%C3%A3o%20pontos%20estabelecidos%20em,dados%20de%20dimens%C3%A3o%20essencialmente%20igual.  
-https://medium.com/kunumi/m%C3%A9tricas-de-avalia%C3%A7%C3%A3o-em-machine-learning-classifica%C3%A7%C3%A3o-49340dcdb198  
+## Referencias 
+
+### Kunumi
 https://medium.com/kunumi  
 https://www.kunumi.com/  
 
+### Como abrir o arquivo ipynb
+https://colab.research.google.com/notebooks/intro.ipynb  
 https://filememo.info/extension/ipynb  
-https://jupyter.readthedocs.io/pt_BR/latest/index.html  
+https://jupyter.readthedocs.io/pt_BR/latest/index.html   
 
+### Métricas de avaliação
+https://medium.com/kunumi/m%C3%A9tricas-de-avalia%C3%A7%C3%A3o-em-machine-learning-classifica%C3%A7%C3%A3o-49340dcdb198  
+
+### Modelos
 https://en.wikipedia.org/wiki/Linear_regression  
 https://en.wikipedia.org/wiki/Naive_Bayes_classifier  
 
-https://towardsdatascience.com/how-to-split-a-dataframe-into-train-and-test-set-with-python-eaa1630ca7b3
-https://www.geeksforgeeks.org/decision-tree-implementation-python/
+### DataFrame
+https://pandas.pydata.org/pandas-docs/stable/reference/frame.html  
+https://towardsdatascience.com/how-to-split-a-dataframe-into-train-and-test-set-with-python-eaa1630ca7b3  
 
+### Cross-validation
 https://scikit-learn.org/stable/modules/cross_validation.html  
-https://scikit-learn.org/stable/modules/tree.html  
-https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sum.html  
-https://medium.com/kunumi/m%C3%A9tricas-de-avalia%C3%A7%C3%A3o-em-machine-learning-classifica%C3%A7%C3%A3o-49340dcdb198  
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_val_score.html  
 
 ### Preprocessing Data
-https://medium.com/data-hackers/normalizar-ou-padronizar-as-vari%C3%A1veis-3b619876ccc9  
 https://scikit-learn.org/stable/modules/preprocessing.html  
 https://towardsdatascience.com/scale-standardize-or-normalize-with-scikit-learn-6ccc7d176a02  
-https://python-data-science.readthedocs.io/en/latest/normalisation.html  
