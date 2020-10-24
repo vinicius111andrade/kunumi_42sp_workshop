@@ -1,20 +1,26 @@
 # kunumi_workshop
 
-## Referencias 
+## The Project
+In this project I explore some machine learning algorithms and do some modeling. The data used was given by the Hospital Albert Einstein and it is about covid patients. Using data like the number of red blood cells a patient has we try to predict whether the patient has covid or not. Considering my knowledge and the amount of data it is quite surprising how successful it was. To me it was surprising.
+
+## Details
+This was a workshop done in a partnership between 42sp and Kunumi. 42sp is a french software engineering school with a unique methodology, Kunumi is a leading brazilian AI company. I had never worked with Pandas, Numpy or Sklearn, in six days and with some help from my peers I managed to do this. It was a great learning experience, now I know what machine learning is or at least have a much clearer idea.
+
+## References  
 
 ### Kunumi
 https://medium.com/kunumi  
 https://www.kunumi.com/  
 
-### Como abrir o arquivo ipynb
+### How to open the .ipynb
 https://colab.research.google.com/notebooks/intro.ipynb  
 https://filememo.info/extension/ipynb  
 https://jupyter.readthedocs.io/pt_BR/latest/index.html   
 
-### Métricas de avaliação
+### Avaliation metrics
 https://medium.com/kunumi/m%C3%A9tricas-de-avalia%C3%A7%C3%A3o-em-machine-learning-classifica%C3%A7%C3%A3o-49340dcdb198  
 
-### Modelos
+### Models
 https://en.wikipedia.org/wiki/Linear_regression  
 https://en.wikipedia.org/wiki/Naive_Bayes_classifier  
 
